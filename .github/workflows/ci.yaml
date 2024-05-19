@@ -24,8 +24,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run tests
-        run: npm test
+      - id: run-pytest
+      name: 'python'
+      entrypoint: '/usr/local/bin/python'
+      args: ["-m", "pytest"]
 
       - name: Check test results and report
         if: ${{ failure() }}
