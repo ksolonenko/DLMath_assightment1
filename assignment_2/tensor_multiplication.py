@@ -55,6 +55,8 @@ def calculate_activation(sum_total):
     Hint: use PyTorch `heaviside` function.
     """
     res = torch.heaviside(sum_total, torch.zeros_like(sum_total))  # TODO: implement this function
+    #zeros_like returns a tensor filled with the scalar value 0, with the same size as sum_total
+    
     return res
 
 def calculate_output(X, W, b):
