@@ -17,7 +17,7 @@ def calculate_elementwise_product(A, B):
     Calculate the elementwise product of the two tensors A and B.
     Note that the dimensions of A and B should be the same.
     """
-    res = torch.mul(A,B)  # TODO: implement this function
+    res = torch.mul(A, B)  # TODO: implement this function
     return res 
 
 
