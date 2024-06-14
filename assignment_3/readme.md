@@ -1,13 +1,13 @@
-# Ex-3: Regression in Harry Potter Universe
+## Ex-3: Regression in Harry Potter Universe
 
-## Overview
+### Overview
 In this exercise, we will use regression to predict the value of vaults in a hypothetical scenario based on the number of gold and silver coins in each vault.
 
-## Objectives
+### Objectives
 1. Train a model using given data of vaults.
 2. Use the trained model to predict the value of other vaults.
 
-## The Assignment
+### The Assignment
 We are in the Harry-Potter-verse. 
 We have the data about the value of several vaults in GB Pounds.
 We also know how many pieces of gold there are in each vault.
@@ -51,7 +51,7 @@ We would like to guess the value of a few other vaults, given the number of gold
 
 ---
 
-## Validating and Evaluating Your Results
+### Validating and Evaluating Your Results
 
 ### Online
 1. After committing and pushing your code, check the mark on the top line (near the commit ID).
