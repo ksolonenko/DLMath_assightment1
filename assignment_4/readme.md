@@ -1,14 +1,14 @@
-# Ex-4: Binary Classifier for MNIST
+## Ex-4: Binary Classifier for MNIST
 
-## Overview
+### Overview
 In this exercise, you will implement a binary classifier to classify a single number from the MNIST dataset. You will be required to complete the functions provided in the Python files.
 
-## Objectives
+### Objectives
 1. Define dense models with single and hidden layers.
 2. Train a model to classify a single digit from the MNIST dataset.
 3. Evaluate the performance of the trained model.
 
-## The Assignment
+### The Assignment
 You are required to complete the following functions in 'layered_model.py'. Your completed functions should pass the tests provided.
 1. `define_dense_model_single_layer`: Define a dense model with a single layer.
 2. `define_dense_model_with_hidden_layer`: Define a dense model with a hidden layer.
@@ -17,7 +17,7 @@ You are required to complete the following functions in 'layered_model.py'. Your
 
 ---
 
-## Validating and Evaluating Your Results
+### Validating and Evaluating Your Results
 
 ### Online
 1. After committing and pushing your code, check the mark on the top line (near the commit ID).
