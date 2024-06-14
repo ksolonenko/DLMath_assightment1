@@ -1,14 +1,14 @@
-# Ex-2: Computational Derivation and Matrix Multiplication
+## Ex-2: Computational Derivation and Matrix Multiplication
 
-## Overview
+### Overview
 In this exercise, you will practice computational derivation and matrix multiplication.
 
-## Objectives
+### Objectives
 1. Calculate the derivative of a function at a given point.
 2. Perform matrix multiplication with tensors.
 3. Implement a simple RMSE function.
 
-## The Assignment
+### The Assignment
 
 ### Computational Derivation (1 point)
 1. Given a function $f()$, calculate the derivative of the function $f$ at point $x$ using the definition of the derivative and evaluating the slope between points $x$ and $x+h$.
@@ -26,7 +26,7 @@ In this exercise, you will practice computational derivation and matrix multipli
 
 ---
 
-## Validating and Evaluating Your Results
+### Validating and Evaluating Your Results
 
 ### Online
 1. After committing and pushing your code, check the mark on the top line (near the commit ID).
